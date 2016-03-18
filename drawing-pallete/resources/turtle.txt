@@ -1,1 +1,23 @@
-
+move 40
+move 30
+move 20
+turn 90
+move 30
+penup
+move 20
+pendown
+move 20
+move 40
+turn 90
+move 30
+penup
+move 20
+move 20
+pendown
+move 30
+move 40
+penup
+move 30
+pendown
+turn 90
+move 40
